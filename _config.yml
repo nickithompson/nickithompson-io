@@ -1,11 +1,11 @@
 # Site settings
 title: Nicki Thompson
-email: nicole.fa.thompson@gmail.com
+email: nicki.thompson968@gmail.com
 url: https://nickithompson.github.io
 description: "Software Engineer, Web Developer, Graphic Designer."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Software Engineer - Graphic Designer"
+meta_author: Thompson Nicole
 
 # Google webmaster tools
 google_verify:
@@ -39,21 +39,18 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: linkedin
+    url: http://linkedin.com/in/nthompson27
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://bitbucket.org/nickithompson
   - title: github
-    url: http://github.com/jekyll
-
+    url: http://github.com/nickithompson
+  - title: instagram
+    url: http://instagram.com/that.canadian
+    
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Santa Clara, CA
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
