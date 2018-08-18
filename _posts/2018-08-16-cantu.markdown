@@ -8,6 +8,11 @@ project-date: 2016 to 2018
 client: Lionel Cantu Queer Center
 category: Graphic Design
 title: Cantu Queer Center
-description: [Portfolio](https://www.canva.com/design/DAC4wjDZRm8/view)
+description: As Graphic Designer at the Lionel Cantu Queer Center, I created
+marketing for events, programs, and center resources. I worked with the 2017 QTPOC conference
+to create a logo and program that reflected the themes of the conference and the community it
+serves. [Portfolio](https://www.canva.com/design/DAC4wjDZRm8/view)
+* Social Media: created posts and events, designed content, increased reach 4x.
+* Fundraising: presented to funding bodies, raised over 5k.
 
 ---
