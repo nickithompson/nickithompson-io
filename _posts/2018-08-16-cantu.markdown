@@ -8,9 +8,6 @@ project-date: 2016 to 2018
 client: Lionel Cantu Queer Center
 category: Graphic Design
 title: Cantu Queer Center
-description: <p>As Graphic Designer at the Lionel Cantu Queer Center, I created
-marketing for events, programs, and center resources. I worked with the 2017 QTPOC conference
-to create a logo and program that reflected the themes of the conference and the community it
-serves. </p><p>With my content, the center's social media post reach increased 4x. I also supported the center by presenting to funding bodies, raising over 5k. In 2017, I received the UCSC Leadership Service Award for contributions to the LGBT community at UCSC. </p><p><a href="https://www.canva.com/design/DAC4wjDZRm8/view">PORTFOLIO.</a></p>
+description: <p>As Graphic Designer at the Lionel Cantu Queer Center, I created marketing for events, programs, and center resources. I worked with the 2017 QTPOC conference to create a logo and program that reflected the themes of the conference and the community it serves. </p><p>With my content, the center's social media post reach increased 4x. I also supported the center by presenting to funding bodies, raising over 5k. In 2017, I received the UCSC Leadership Service Award for contributions to the LGBT community at UCSC. </p><p><a href="https://www.canva.com/design/DAC4wjDZRm8/view">PORTFOLIO.</a></p>
 
 ---
