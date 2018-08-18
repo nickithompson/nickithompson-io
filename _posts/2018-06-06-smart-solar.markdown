@@ -12,6 +12,6 @@ description: Built a mobile app to perform solar siting surveys. Worked with spo
 * Image Processing: Implemented OpenCV and Google Vision tools to detect obstructions and available sunlight.
 * Android Development (Java): built application in Android Studio, using AR libraries. Contributed to design and implementation of UI (setting screen).
 * Led scrum meetings, maintained documentation, wrote user's manual.
-[![Repository](https://raw.githubusercontent.com/chshsmit/Smart_Solar_Siting/master/app/src/main/res/drawable-hdpi/smart_siting_logo.png)](http://github.com/chshsmit/Smart_Solar_Siting)
+* [Repository](http://github.com/chshsmit/Smart_Solar_Siting)
 
 ---

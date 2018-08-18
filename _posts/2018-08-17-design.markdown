@@ -8,6 +8,6 @@ project-date: 2016 to 2018
 client: Self
 category: Graphic Design
 title: Freelance Design
-description: (Coming Soon)
+description: Coming Soon.
 
 ---
