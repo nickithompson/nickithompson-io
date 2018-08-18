@@ -8,6 +8,6 @@ project-date: Summer 2018
 client: Self
 category: Python
 title: Space Weather
-description: The description of the project
+description: Web service monitoring >= 10MeV levels NOAA data.
 
 ---

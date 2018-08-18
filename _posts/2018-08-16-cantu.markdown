@@ -8,6 +8,6 @@ project-date: 2016 to 2018
 client: Lionel Cantu Queer Center
 category: Graphic Design
 title: Cantu Queer Center
-description: The description of the project
+description: [Portfolio](https://www.canva.com/design/DAC4wjDZRm8/view)
 
 ---
