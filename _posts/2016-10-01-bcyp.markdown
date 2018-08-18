@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-date: 2018-08-17
+date: 2016-10-01
 img: 3.png
 alt: image-alt
 project-date: Summer 2018
