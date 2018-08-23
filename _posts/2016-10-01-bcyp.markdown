@@ -8,6 +8,6 @@ project-date: 2014-2016
 client: British Columbia Youth Parliament
 category: Web Design
 title: BCYP Website
-description: Redesigned and maintained main static website for civic education and public service programs, and responsive layout website for Camp Phoenix (an overnight camp accessible to kids who would not otherwise be able to attend summer camp). HTML/CSS.
+description: <p>Redesigned and maintained main static website for civic education and public service programs, and responsive layout website for Camp Phoenix (an overnight camp accessible to kids who would not otherwise be able to attend summer camp). HTML/CSS.</p><p><img src="https://78.media.tumblr.com/99d50a3cf068138b5f2e77502b96f7cb/tumblr_noosjxRr7d1tkn16ho3_r1_540.png"></p><p><img src="https://78.media.tumblr.com/1ffc555c1e01adb38999027396dd4c3b/tumblr_noosjxRr7d1tkn16ho4_r1_540.png"></p>
 
 ---
